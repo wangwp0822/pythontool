@@ -1,0 +1,72 @@
+#coding=utf-8
+
+_loginweb = "http://192.168.2.76:8800/"
+_userinfo = {   'os_username': "wangwenping",
+                'os_password': "6An5ts0QBR",
+                'os_cookie':'true'}
+_desgion = {	'huangtiandao':'黄天岛',
+				'duyi':'杜逸',
+				'zenghao':'曾浩',
+				'jiayezhou':'贾叶舟',
+				'licen':'李岑',
+				'luxingji':'路行己',
+				'wuxirui':'吴希瑞',
+				'chenxi':'陈希',
+				'peijiahe':'裴嘉贺',
+				'sunboheng':'孙博恒',
+				'nieqi':'聂琦',
+				'lizelong':'李泽龙',
+				'huyang':'胡洋',
+				'wangguangxin':'王光欣',
+				'chenxu':'陈旭',
+				'haoyang':'郝阳',
+				'xiawei':'夏威',
+				'luyong':'陆勇',
+				'weikun':'魏鲲',
+				'liusuyu':'刘苏禹',
+				'yanboyu':'闫博宇',
+				'zhuxiao':'朱骁',
+				'jiawendi':'贾文迪',
+				'chenchenhui':'陈晨晖',
+				'mahairuo':'马海若'
+				}
+
+_client = {		'niyi':'倪毅',
+				'ranbo':'冉波',
+				'lifachuan':'李发川',
+				'zhanghua':'张华',
+				'tanlixin':'谭立鑫',
+				'zhaijianxiong':'翟建雄',
+				'wangxibao':'汪细保',
+				'fuxing':'符星',
+				'lixing':'李星',
+				'wanchao':'万超',
+				'tengjiang':'滕江',
+				'lisiheng':'李思亨',
+				'shibin':'史斌',
+				'liuchen':'刘琛',
+				'yangzhenyu':'杨振宇',
+				'dingyabo':'丁雅博',
+				'zhaozeqiang':'赵泽强',
+				'wangchunan':'王楚男',
+				'lianqi':'李安琪'
+				}
+
+_server = {		'fanzhongkui':'樊中奎',
+				'zhaoyuchen':'赵昱辰',
+				'wangwenping':'王文萍',
+				'cuiyangyang':'崔阳阳',
+				'yongxinyu':'雍欣于',
+				'yinzhenyu':'尹振宇',
+				'lishihang':'李世航',
+				'yangning':'杨宁',
+				'wangyongkai':'王雍凯',
+				'fuxinyu':'付新嵛',
+				'huchunlin':'胡春林',
+				'hexinwei':'何鑫巍',
+				'xieyifeng':'谢艺丰'}
+
+_qa = {			'wurui':'伍睿',
+				'nishuo':'你说',
+				'xuziyin':'许字音',
+				'zhangdawei':'张大伟'}

@@ -1,0 +1,7 @@
+0.安装python2.7.11版本，地址：https://www.python.org/ftp/python/2.7.11/python-2.7.11.msi
+1.将文件夹解压到某个地方，发送Tool.exe快捷方式到桌面
+2.运行“首次使用初始化.bat”
+3.配置config.ini里各项内容，第一项是python安装目录，第二项是项目名（不带‘-’）
+4.配置config.py里各项内容，注意不要使用中文逗号
+
+好啦，可以运行tool.exe工作啦
